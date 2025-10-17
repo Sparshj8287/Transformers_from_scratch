@@ -1,0 +1,9 @@
+# Ignore directories
+transliteration_data/
+__pycache__/
+out/
+wandb/
+dakshina_dataset_v1.0/
+
+# Ignore dataset files
+dakshina_dataset_v1.0.tar
